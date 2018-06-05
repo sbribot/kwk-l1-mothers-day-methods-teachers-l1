@@ -2,6 +2,7 @@
 
 def mothers_day
   puts "Happy Mother's Day, Mom!"
+end 
 
 ## Call your method below - use puts to see it in the terminal!
 
